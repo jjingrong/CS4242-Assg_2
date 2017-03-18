@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# CS4242 data files
+assignment2/dataset
+assignment2/social_network.json
+assignment2/tweets
+assignment2/.idea
+
 # C extensions
 *.so
 
